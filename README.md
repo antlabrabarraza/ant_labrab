@@ -1,23 +1,13 @@
-# ant_labrab
-# h1 ¿Para qué es esta propuesta?
-Objetivo General: Compartir mi trabajo como diseñadora a través de un portafolio web ilustrativo e interactivo, que invite a recorrer mis proyectos de manera interactiva, visual y dinámica, permitiendo conocer también mi personalidad y forma de ser.
-¿Para quien es esta propuesta? - Protopersona
-## ⭐ Usuario Extremo 1: Matías Rivas — Encargado de Investigación y Archivo / Museo de la Memoria y los DDHH
-Sketch + Identidad
+#h1
 
-Historiador de 33 años, responsable de coordinar archivos visuales, exposiciones y proyectos de investigación en memoria política.
-Comportamientos y Creencias
-Ve el diseño como una herramienta de memoria, reparación y activación política.
-Prefiere trabajos con archivo fotográfico, gráfica política, documental y territorio.
-Cree en la ética del diseño y en la necesidad de sensibilidad para tratar temas de DDHH.
-Busca colaboraciones con diseñadoras que tengan criterio conceptual y manejo audiovisual/textual.
-#### Demografía
-Hombre, 33
-Santiago Centro
-Historiador / Especialista en memoria y archivo
-8+ años en proyectos de memoria, museos, organizaciones de DDHH
-#### Necesidades y Metas
-Evaluar la capacidad para manejar contenidos históricos y sensibles.
-Ver proyectos con contexto, narrativa visual y documentación fotográfica.
-Confirmar que el portafolio muestra coherencia ética y estética.
-Identificar si puedes aportar a exposiciones, catálogos, campañas o archivos visuales.
+##  ⭐ Usuario Extremo 1: Matías Rivas — Encargado de Investigación y Archivo, Museo de la Memoria y los DDHH
+Matías Rivas tiene 33 años y trabaja como Encargado de Investigación y Archivo en el Museo de la Memoria y los Derechos Humanos. Se mueve diariamente entre documentos históricos, registros visuales y proyectos curatoriales, y está constantemente buscando profesionales capaces de traducir contenidos sensibles en narrativas visuales respetuosas y potentes. Para Matías, el diseño no es decorativo: es una herramienta política, ética y comunicativa. Le interesan portafolios que tengan un manejo sólido de archivo fotográfico, gráfica política, trabajo territorial o audiovisual documental. Cuando revisa el portafolio de alguien, necesita sentir sensibilidad, rigor, investigación y coherencia ética. Le importa ver si la diseñadora entiende la responsabilidad de trabajar con memoria y DDHH, y si su estética puede adaptarse tanto a proyectos expositivos como a piezas editoriales con profundidad conceptual.
+
+## ⭐ Usuario Extremo 2: Sol Andrade — Editora de Publicaciones Artísticas, Residencia Editorial La Piedra
+
+Sol Andrade, editora y fotógrafa de 27 años, trabaja en la Residencia Editorial La Piedra, un espacio dedicado a publicaciones experimentales y proyectos visuales independientes. Su mirada está orientada hacia la exploración conceptual, la fotografía sensible, la narrativa visual y las materialidades propias de las publicaciones de arte. Sol revisa portafolios en busca de diseñadoras con una voz estética clara, autoral y coherente; que se atrevan a experimentar con formato, textura, ritmo editorial y sensibilidad visual. Le interesan trabajos con carga personal, poética o intuitiva, y valora especialmente cuando el diseño dialoga con fotografía, textil, cuerpo o archivo. Su intención al revisar tu portafolio es evaluar si podrías colaborar en fotolibros, publicaciones conceptuales o proyectos de residencias artísticas donde se requiere sensibilidad, experimentación y consistencia estética.
+
+## ⭐ Usuario Promedio: Eve Salazar — Diseñadora Gráfica Senior, Ministerio de Bienes Nacionales
+
+Eve Salazar es una diseñadora gráfica de 40 años que trabaja como Diseñadora Senior en el Ministerio de Bienes Nacionales. Acostumbrada a coordinar campañas públicas, producir material audiovisual institucional y supervisar diseño editorial del ministerio, Eve revisa portafolios con una mirada práctica, profesional y orientada al servicio público. Valora la claridad, el orden, la síntesis y la capacidad de comunicar de manera accesible. Espera encontrar un portafolio navegable y bien estructurado, que muestre solidez técnica en gráfica, audiovisual, editorial y branding institucional. Para ella es importante que el diseño tenga responsabilidad social y que quien postula pueda integrarse a un equipo estatal con seriedad, sensibilidad y criterio. Al ver tu portafolio, su objetivo es determinar si puedes aportar al trabajo institucional, especialmente en áreas vinculadas a cultura, memoria, archivo o comunicación pública.
+
