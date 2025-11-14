@@ -1,6 +1,7 @@
-#h1
+# h1
 
 ##  ⭐ Usuario Extremo 1: Matías Rivas — Encargado de Investigación y Archivo, Museo de la Memoria y los DDHH
+![Image alt text](/path/to/img.jpg)
 Matías Rivas tiene 33 años y trabaja como Encargado de Investigación y Archivo en el Museo de la Memoria y los Derechos Humanos. Se mueve diariamente entre documentos históricos, registros visuales y proyectos curatoriales, y está constantemente buscando profesionales capaces de traducir contenidos sensibles en narrativas visuales respetuosas y potentes. Para Matías, el diseño no es decorativo: es una herramienta política, ética y comunicativa. Le interesan portafolios que tengan un manejo sólido de archivo fotográfico, gráfica política, trabajo territorial o audiovisual documental. Cuando revisa el portafolio de alguien, necesita sentir sensibilidad, rigor, investigación y coherencia ética. Le importa ver si la diseñadora entiende la responsabilidad de trabajar con memoria y DDHH, y si su estética puede adaptarse tanto a proyectos expositivos como a piezas editoriales con profundidad conceptual.
 
 ## ⭐ Usuario Extremo 2: Sol Andrade — Editora de Publicaciones Artísticas, Residencia Editorial La Piedra
